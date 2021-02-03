@@ -1,5 +1,8 @@
+# About game
+a two player game based on dot and cross in 3*3 matrix.player have to made sequence of selected charecter in continuous 3 blocks i.e row, coloumn,and diagonal)
+
 # TicTacToe-game
-it is a core JAVA project code using only OOPs concepts 
+It is a core JAVA project code using only OOPs concepts 
 this project is only based on Object oriented programm
 In this programm user can easily understand the concepts of oop's and java Swing and AWT
 
